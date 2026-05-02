@@ -6,11 +6,14 @@
 
 ## EDS Laboratory Assignmennts
 -Practical-01 :
-Topic Covered : Conditional Statements,Loops,Recursive Functions 
-https://github.com/202501040138-wq/EDS_Lab_Assignment/blob/main/Practical%201.pdf
+Topics Covered : Conditional Statements,Loops,Recursive Functions 
+<a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/blob/main/Practical%201.pdf" class="btn">Practical-01</a>
 
 -Practical-02 :
-Topic Covered : List Operations,Dictionary Operations,Linear Search Technique
+Topics Covered : List Operations,Dictionary Operations,Linear Search Technique
+<a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/blob/main/Practical%202.pdf" class="btn">Practical-01</a>
+
+
 
 
 
