@@ -1,17 +1,17 @@
 # Monika-EDS
 
-## Video Demonstration
+## ✅Video Demonstration
 <a href="https://youtu.be/HAJbf-3WUyk?si=vtEAytKaS3ttt5aR" class="btn">Watch the video here</a>
 
-## codeTantra Completion Link 
+##✅ codeTantra Completion Link 
  <a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/blob/main/Eds%20lab%20assignments%20completed.pdf" class="btn">View my CodeTantra Completion</a>
 
 
-## Certificates
+## ✅Certificates
 -Cisco Certifications : <a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/edit/main/cisco%20certificates.pdf" class="btn">Download Certificate</a>
 
 
-## EDS Laboratory Assignmennts
+## ✅EDS Laboratory Assignmennts
 -Practical-01 :
 <a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/blob/main/Practical%201.pdf" class="btn">Practical-01</a>
 
