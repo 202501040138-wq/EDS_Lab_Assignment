@@ -8,7 +8,7 @@
 
 
 ## 📜Certificates
--Cisco Certifications : <a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/edit/main/cisco%20certificates.pdf">Download Certificate</a>
+-Cisco Certifications :<a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/blob/main/cisco%20certificates.pdf" class="btn">Watch the video here</a>
 
 
 ## ✅EDS Laboratory Assignmennts
