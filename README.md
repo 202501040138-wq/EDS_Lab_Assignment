@@ -4,7 +4,9 @@
 <a href="https://youtu.be/HAJbf-3WUyk?si=vtEAytKaS3ttt5aR" class="btn">Watch the video here</a>
 
 ## codeTantra Completion Link 
-https://github.com/202501040138-wq/EDS_Lab_Assignment/blob/main/Eds%20lab%20assignments%20completed.pdf
+ <a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/blob/main/Eds%20lab%20assignments%20completed.pdf" class="btn">View my CodeTantra Completion</a>
+
+
 ## Certificates
 -Cisco Certifications : <a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/edit/main/cisco%20certificates.pdf" class="btn">Download Certificate</a>
 
