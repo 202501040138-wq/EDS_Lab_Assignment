@@ -1,4 +1,4 @@
-# EDS_Lab_Assignment
+# Monika-EDS
 
 ## Video Demonstration
 <a href="https://youtu.be/HAJbf-3WUyk?si=vtEAytKaS3ttt5aR" class="btn">Watch the video here</a>
