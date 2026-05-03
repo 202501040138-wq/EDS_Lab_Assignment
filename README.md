@@ -1,7 +1,7 @@
 # EDS_Lab_Assignment
 
 ## Video Demonstration
-https://youtu.be/HAJbf-3WUyk?si=vtEAytKaS3ttt5aR
+<a href="https://youtu.be/HAJbf-3WUyk?si=vtEAytKaS3ttt5aR" class="btn">Watch the video here</a>
 
 ## codeTantra Completion Link 
 https://github.com/202501040138-wq/EDS_Lab_Assignment/blob/main/Eds%20lab%20assignments%20completed.pdf
