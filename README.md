@@ -13,7 +13,7 @@
 
 ## ✅EDS Laboratory Assignmennts
 -Practical-01 :
-<a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/commit/890e6910e82cb83f44ebd8f87faa8e5cd1e59ab4" class="btn">Practical-01</a>
+<a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/blob/main/Practical%201.pdf" class="btn">Practical-01</a>
 
 -Practical-02 :
 <a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/blob/main/Practical%202.pdf" class="btn">Practical-02</a>
