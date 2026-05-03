@@ -7,7 +7,7 @@
  <a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/blob/main/Eds%20lab%20assignments%20completed.pdf" class="btn">View my CodeTantra Completion</a>
 
 
-## ✅Certificates
+## 📜Certificates
 -Cisco Certifications : <a href="https://github.com/202501040138-wq/EDS_Lab_Assignment/edit/main/cisco%20certificates.pdf" class="btn">Download Certificate</a>
 
 
