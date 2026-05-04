@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monika-EDS</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+            max-width: 700px;
+            width: 100%;
+        }
+
+        h1 {
+            color: #1a73e8;
+            font-size: 2.5rem;
+            margin-bottom: 30px;
+            font-weight: 600;
+        }
+
+        .item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 12px 0;
+            border-bottom: 1px solid #eee;
+            transition: all 0.3s ease;
+        }
+
+        .item:hover {
+            transform: translateX(5px);
+        }
+
+        .checkbox {
+            width: 24px;
+            height: 24px;
+            background: #4CAF50;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 15px;
+            flex-shrink: 0;
+        }
+
+        .checkbox svg {
+            width: 16px;
+            height: 16px;
+            fill: white;
+        }
+
+        .label {
+            font-size: 1.1rem;
+            color: #333;
+            font-weight: 500;
+            margin-right: 10px;
+        }
+
+        .link {
+            color: #1a73e8;
+            text-decoration: none;
+            font-size: 1.1rem;
+            transition: color 0.3s ease;
+            word-break: break-all;
+        }
+
+        .link:hover {
+            color: #1557b0;
+            text-decoration: underline;
+        }
+
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            border-radius: 12px;
+            margin-top: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+            border-radius: 12px;
+        }
+
+        .pdf-icon {
+            width: 20px;
+            height: 20px;
+            margin-right: 8px;
+            vertical-align: middle;
+        }
+
+        .pdf-link {
+            display: inline-flex;
+            align-items: center;
+        }
+    </style>
+<base target="_blank">
+</head>
+<body>
+    <div class="container">
+        <h1>Monika-EDS</h1>
+
+        <!-- Video Demonstration - YouTube Embed -->
+        <div class="item">
+            <div class="checkbox">
+                <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            </div>
+            <span class="label">Video Demonstration</span>
+        </div>
+        <div class="video-container">
+            <!-- YouTube embed URL format (not watch URL) -->
+            <iframe 
+                 src="https://www.youtube.com/embed/HAJbf-3WUyk" 
+                title="Video Demonstration" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+                allowfullscreen
+                loading="lazy">
+            </iframe>
+        </div>
+
+        <!-- CodeTantra Completion Link -->
+        <div class="item">
+            <div class="checkbox">
+                <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            </div>
+            <span class="label">CodeTantra Completion Link</span>
+            <a href="Eds lab assignments completed.pdf" class="link">View my CodeTantra completion</a>
+        </div>
+
+        <!-- Cisco Certificate -->
+        <div class="item">
+            <div class="checkbox">
+                <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            </div>
+            <span class="label">Download Cisco Certificate</span>
+            <a href="cisco certificates.pdf" class="link pdf-link" target="_blank">
+                <svg class="pdf-icon" viewBox="0 0 24 24" fill="#d32f2f"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 12h8v2H8v-2zm0 4h8v2H8v-2zm0-8h3v2H8V8z"/></svg>
+                Download Certificate
+            </a>
+        </div>
+
+        <!-- Practical 1 -->
+        <div class="item">
+            <div class="checkbox">
+                <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            </div>
+            <span class="label">Practical 1</span>
+            <a href="practical 1.pdf" class="link pdf-link" target="_blank">
+                <svg class="pdf-icon" viewBox="0 0 24 24" fill="#d32f2f"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 12h8v2H8v-2zm0 4h8v2H8v-2zm0-8h3v2H8V8z"/></svg>
+                practical 1
+            </a>
+        </div>
+
+        <!-- Practical 2 -->
+        <div class="item">
+            <div class="checkbox">
+                <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            </div>
+            <span class="label">Practical 2</span>
+            <a href="practical 2.pdf" class="link pdf-link" target="_blank">
+                <svg class="pdf-icon" viewBox="0 0 24 24" fill="#d32f2f"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 12h8v2H8v-2zm0 4h8v2H8v-2zm0-8h3v2H8V8z"/></svg>
+                practical 2
+            </a>
+        </div>
+
+        <!-- Practical 3 -->
+        <div class="item">
+            <div class="checkbox">
+                <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            </div>
+            <span class="label">Practical 3</span>
+            <a href="practical 3.pdf" class="link pdf-link" target="_blank">
+                <svg class="pdf-icon" viewBox="0 0 24 24" fill="#d32f2f"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 12h8v2H8v-2zm0 4h8v2H8v-2zm0-8h3v2H8V8z"/></svg>
+                practical 3
+            </a>
+        </div>
+
+        <!-- Practical 4 -->
+        <div class="item">
+            <div class="checkbox">
+                <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            </div>
+            <span class="label">Practical 4</span>
+            <a href="practical 4.pdf" class="link pdf-link" target="_blank">
+                <svg class="pdf-icon" viewBox="0 0 24 24" fill="#d32f2f"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 12h8v2H8v-2zm0 4h8v2H8v-2zm0-8h3v2H8V8z"/></svg>
+                practical 4
+            </a>
+        </div>
+
+        <!-- Practical 5 -->
+        <div class="item">
+            <div class="checkbox">
+                <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>
+            </div>
+            <span class="label">Practical 5</span>
+            <a href="practical 5.pdf" class="link pdf-link" target="_blank">
+                <svg class="pdf-icon" viewBox="0 0 24 24" fill="#d32f2f"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11zM8 12h8v2H8v-2zm0 4h8v2H8v-2zm0-8h3v2H8V8z"/></svg>
+                practical 5
+            </a>
+        </div>
+    </div>
+</body>
+</html>
